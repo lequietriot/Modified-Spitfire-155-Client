@@ -2,7 +2,7 @@
 This is nshusa's spitfire 155 OSRS client modified slightly to work with Alex's FileStore for the purpose of dumping sounds from the cache.
 
 Credits:
-* Nshusa - Spitfire 155 Client (https://github.com/nshusa/spitfire-155-client)
+* Nshusa & Netty - Spitfire 155 Client (https://github.com/nshusa/spitfire-155-client)
 * Alex - FileStore Utility
 * Me - Sounds 1, 2 and 3 Dumper classes
 * Vincent - For the informative replies on Rune-Server to help me figure out how it works
