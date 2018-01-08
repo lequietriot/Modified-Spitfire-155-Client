@@ -1,6 +1,8 @@
 # Modified-Spitfire-155-Client
 This is nshusa's spitfire 155 OSRS client modified slightly to work with Alex's FileStore for the purpose of dumping sounds from the cache.
 
+Note: when importing raw data to Audacity, make the Sample Rate 22050 Hz for the correct sound.
+
 Credits:
 * Nshusa & Netty - Spitfire 155 Client (https://github.com/nshusa/spitfire-155-client)
 * Alex - FileStore Utility
